@@ -16,7 +16,7 @@ Least Recently Used (LRU) is a cache replacement algorithm that replaces cache w
 - Because of shortage in time, couldn't explore much in presisting the data in json file.
 
 
-### How to run locally?
+## 💻 How to run locally?
 ```sh
 # install all the dependencies
 $ npm install
